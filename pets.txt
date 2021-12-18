@@ -2,3 +2,6 @@ Rusty
 blue 
 scout 
 chicken
+Husky 
+Tiky 
+Shamsh
